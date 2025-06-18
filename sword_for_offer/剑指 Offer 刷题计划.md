@@ -104,8 +104,8 @@
 |            | 剑指 Offer 59 - I. 滑动窗口的最大值    [en](https://leetcode.com/problems/sliding-window-maximum/description/)  [cn](https://leetcode.cn/problems/sliding-window-maximum/)          |
 |            | 剑指 Offer 59 - II. 队列的最大值            |
 | **Day 28** | **搜索与回溯算法（困难）**                    |
-|            | 剑指 Offer 37. 序列化二叉树                   |
-|            | 剑指 Offer 38. 字符串的排列                   |
+|            | 剑指 Offer 37. 序列化二叉树  [en](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)  [cn](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)                 |
+|            | 剑指 Offer 38. 字符串的排列  [en1](https://leetcode.com/problems/permutations/description/) [en2](https://leetcode.com/problems/permutations-ii/description/)  [cn1](https://leetcode.cn/problems/permutations/) [cn2](https://leetcode.cn/problems/permutations-ii/)                  |
 | **Day 29** | **动态规划（困难）**                          |
 |            | 剑指 Offer 19. 正则表达式匹配                 |
 |            | 剑指 Offer 49. 丑数                           |
