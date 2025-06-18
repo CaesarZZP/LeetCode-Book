@@ -101,8 +101,8 @@
 |            | 剑指 Offer 20. 表示数值的字符串               |
 |            | 剑指 Offer 67. 把字符串转换成整数             |
 | **Day 27** | **栈与队列（困难）**                          |
-|            | 剑指 Offer 59 - I. 滑动窗口的最大值           |
-|            | 剑指 Offer 59 - II. 队列的最大值              |
+|            | 剑指 Offer 59 - I. 滑动窗口的最大值    [en](https://leetcode.com/problems/sliding-window-maximum/description/)  [cn](https://leetcode.cn/problems/sliding-window-maximum/)          |
+|            | 剑指 Offer 59 - II. 队列的最大值            |
 | **Day 28** | **搜索与回溯算法（困难）**                    |
 |            | 剑指 Offer 37. 序列化二叉树                   |
 |            | 剑指 Offer 38. 字符串的排列                   |
