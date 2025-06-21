@@ -93,27 +93,27 @@
 | **Day 24** | **数学（中等）**                              |
 |            | 剑指 Offer 14- I. 剪绳子                      |
 |            | 剑指 Offer 57 - II. 和为 s 的连续正数序列     |
-|            | 剑指 Offer 62. 圆圈中最后剩下的数字           |
+|            | 剑指 Offer 62. 圆圈中最后剩下的数字  [cn](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)         |
 | **Day 25** | **模拟（中等）**                              |
 |            | 剑指 Offer 29. 顺时针打印矩阵                 |
 |            | 剑指 Offer 31. 栈的压入、弹出序列             |
 | **Day 26** | **字符串（中等）**                            |
-|            | 剑指 Offer 20. 表示数值的字符串               |
-|            | 剑指 Offer 67. 把字符串转换成整数             |
+|            | 剑指 Offer 20. 表示数值的字符串    [en](https://leetcode.com/problems/valid-number/description/) [cn](https://leetcode.cn/problems/valid-number/)          |
+|            | 剑指 Offer 67. 把字符串转换成整数  [en](https://leetcode.com/problems/string-to-integer-atoi/description/) [cn](https://leetcode.cn/problems/string-to-integer-atoi/)           |
 | **Day 27** | **栈与队列（困难）**                          |
 |            | 剑指 Offer 59 - I. 滑动窗口的最大值    [en](https://leetcode.com/problems/sliding-window-maximum/description/)  [cn](https://leetcode.cn/problems/sliding-window-maximum/)          |
-|            | 剑指 Offer 59 - II. 队列的最大值            |
+|            | 剑指 Offer 59 - II. 队列的最大值    (oj no found)        |
 | **Day 28** | **搜索与回溯算法（困难）**                    |
 |            | 剑指 Offer 37. 序列化二叉树  [en](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)  [cn](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)                 |
 |            | 剑指 Offer 38. 字符串的排列  [en1](https://leetcode.com/problems/permutations/description/) [en2](https://leetcode.com/problems/permutations-ii/description/)  [cn1](https://leetcode.cn/problems/permutations/) [cn2](https://leetcode.cn/problems/permutations-ii/)                  |
 | **Day 29** | **动态规划（困难）**                          |
-|            | 剑指 Offer 19. 正则表达式匹配                 |
-|            | 剑指 Offer 49. 丑数                           |
-|            | 剑指 Offer 60. n 个骰子的点数                 |
+|            | 剑指 Offer 19. 正则表达式匹配  [en](https://leetcode.com/problems/regular-expression-matching/description/)  [cn](https://leetcode.cn/problems/regular-expression-matching/description/)               |
+|            | 剑指 Offer 49. 丑数    [en](https://leetcode.com/problems/ugly-number-ii/description/) [cn](https://leetcode.cn/problems/ugly-number-ii/)                       |
+|            | 剑指 Offer 60. n 个骰子的点数   [cn](https://leetcode.cn/problems/nge-tou-zi-de-dian-shu-lcof/description/?envType=problem-list-v2&envId=urnOhdAv)              |
 | **Day 30** | **分治算法（困难）**                          |
-|            | 剑指 Offer 17. 打印从 1 到最大的 n 位数       |
-|            | 剑指 Offer 51. 数组中的逆序对                 |
+|            | 剑指 Offer 17. 打印从 1 到最大的 n 位数  (oj no found)     |
+|            | 剑指 Offer 51. 数组中的逆序对      [en](https://leetcode.com/problems/reverse-pairs/description/)  [cn](https://leetcode.cn/problems/reverse-pairs/)          |
 | **Day 31** | **数学（困难）**                              |
-|            | 剑指 Offer 14- II. 剪绳子 II                  |
-|            | 剑指 Offer 43. 1～n 整数中 1 出现的次数       |
-|            | 剑指 Offer 44. 数字序列中某一位的数字         |
+|            | 剑指 Offer 14- II. 剪绳子 II   (oj no found)               |
+|            | 剑指 Offer 43. 1～n 整数中 1 出现的次数  [en](https://leetcode.com/problems/number-of-digit-one/description/) [cn](https://leetcode.cn/problems/number-of-digit-one/)    |
+|            | 剑指 Offer 44. 数字序列中某一位的数字    [en](https://leetcode.com/problems/nth-digit/description/) [cn](https://leetcode.cn/problems/nth-digit/)     |
